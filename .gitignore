@@ -1,0 +1,4 @@
+DATASETS/
+RUN/outputs/
+# Ignore all .zip files in RUN/
+RUN/*.zip
